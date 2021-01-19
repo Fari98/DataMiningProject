@@ -10,4 +10,4 @@ This report intends to go through all the process and reasoning behind the decis
 
 # Reproducibility
 
-In order to reproduce the project you can finde in the folder data the zipped version of the dataset used, and in another folder also the the metadata file and the project description. Be sure to also dowload the requirements.txt file. Set the paths to import the data of the notebook as the one on your device.
+In order to reproduce the project you can finde in the folder data the zipped version of the dataset used, and in another folder also the the metadata file and the project description. Be sure to also dowload the spec-requirements.txt file or the environment.yml file. Set the paths to import the data of the notebook as the one on your device.
