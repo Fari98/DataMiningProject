@@ -2,6 +2,12 @@
 
 # Authors: Davide Farinati, Diana Furtado, Hiromi Nakashima
 
+Grade 18
+
+Mean | Max | Median | Q75
+-----|-----|--------|----
+15.52| 19  |  16    | 17
+
 # Context
 
 We were challenged to analyze a dataset provided by the Paralyzed Veterans of America (PVA), consisting of a sample of the results of one of its recent fundraising appeals, in order to develop a customer segmentation to help PVA understand and forecast donors behaviour and perceive potential donation opportunities, producing a marketing report.
