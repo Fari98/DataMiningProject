@@ -2,7 +2,7 @@
 
 # Authors: Davide Farinati, Diana Furtado, Hiromi Nakashima
 
-Grade 18
+Grade 18/20
 
 Mean | Max | Median | Q75
 -----|-----|--------|----
